@@ -48,18 +48,22 @@ Key findings include:
 
 ## Principal Component Analysis (PCA) Biplot
 ![PCA Biplot Analysis](figures/biplot.png)
+
 Shows how different amino acids contribute to protein differentiation, revealing that our focal proteins show similarities to pure alpha and hemoglobin protein families.
 
 ## Amino Acid Composition Cluster Heatmap
 ![Amino Acid Composition Heatmap](figures/cluster_heatmap.png)
+
 Shows the relative abundance of each amino acid across our three focal proteins (PAK3, CAPN6, and CHRDL1), highlighting distinct compositional patterns that characterize each protein.
 
 ## Cosine Similarity Clustering
 ![Cosine Similarity Matrix](figures/cosine_similarity.png)
+
 Reveals relationship patterns between proteins based on their amino acid composition, providing insights into protein family groupings and evolutionary relationships.
 
 ## Euclidean Distance Matrix
 ![Euclidean Distance Matrix](figures/euclidean_distance_matrix.png)
+
 Quantifies the absolute differences between protein compositions, offering a complementary view to the cosine similarity analysis for understanding protein relationships.
 
 ## Usage
