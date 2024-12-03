@@ -1,6 +1,7 @@
 # Protein Sequence Analysis Project
 
-## Overview
+December 2023
+
 This project analyzes protein sequences and their relationships through amino acid composition analysis, focusing on PAK3 and its neighboring proteins CAPN6 and CHRDL1. The analysis includes sequence comparisons, feature engineering, and dimensionality reduction techniques to understand protein similarities and relationships.
 
 
